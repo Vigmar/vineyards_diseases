@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vineyards_diseases/static/css/main.fc5c2c69.css",
+    "main.js": "/vineyards_diseases/static/js/main.eef90e42.js",
+    "index.html": "/vineyards_diseases/index.html",
+    "main.fc5c2c69.css.map": "/vineyards_diseases/static/css/main.fc5c2c69.css.map",
+    "main.eef90e42.js.map": "/vineyards_diseases/static/js/main.eef90e42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.eef90e42.js"
+  ]
+}
